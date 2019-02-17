@@ -1,0 +1,11 @@
+id: mpv
+name: a free, open source, and cross-platform media player
+version: 201902
+home: https://www.mpv.io
+repo: https://github.com/mpv-player/mpv
+license: GPLv2 "or later" by default, LGPLv2.1 "or later" with --enable-lgp
+installMethod: zip
+installers:
+- location: https://downloads.sourceforge.net/project/mpv-player-windows/64bit/mpv-x86_64-20190210-git-f2e7e81.7z
+- location: https://downloads.sourceforge.net/project/mpv-player-windows/64bit/mpv-x86_64-20190210-git-f2e7e81.7z
+  architecture: x64
